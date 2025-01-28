@@ -19,24 +19,9 @@
 
 To run this repository you'll [Node.js](https://nodejs.org/en/download/) (which comes with [npm](https://www.npmjs.com/)) installed on your computer. From your command line:
 
-``` bash
-# Clone this repository
-``npm install``
-
-```
-The app will look for 'realm' folder to store database files. Create an empty 'realm' folder outside of the cloned 'Sales-and-Inventory-System' folder. After that, open the 'Sales-and-Inventory-System' folder with your code editor.
-
-![for-github](https://github.com/user-attachments/assets/301ccd12-4daa-4571-81ff-9e88e55a13f9)
+``npm install`` 
 
 ``` bash
-# Go into the repository
-cd Sales-and-Inventory-System
-# Install dependencies and run the app
-npm install && npm start
-```
-
-To pack into an app:
-
-``` shell
-npm run package
+# To run the application
+npm start
 ```
