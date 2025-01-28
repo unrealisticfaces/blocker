@@ -1,5 +1,6 @@
 # Install Blocker
-### still working on it 
+### How to use
+``npm install
 
 
 
