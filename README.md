@@ -1,4 +1,4 @@
-# Sales-and-Inventory-System
+# Installer-Blocker
 
 *An offline desktop app to prevent users from installing. Built with [Electron](https://github.com/atom/electron)*
 
